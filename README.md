@@ -4,8 +4,8 @@
 
 ### Olá! eu sou o Lucas Gomes mais conhecido como lulinux! 👋
 
-- 👨‍💻 Futuro desenvolvedor FullStack. 
-- 👨🏻‍🎓 Sistemas Para Internet - Fatec. 
+- 👨‍💻 Desenvolvedor Frontend. 
+- 👨🏻‍🎓 Técnico em Informática P/ Internet - Etec. 
  
 <div align="left">
   <a href="https://github.com/lulinux21">
